@@ -1,0 +1,34 @@
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\NoonBot.exe.config
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\obj\Debug\NoonBot.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\NoonBot.exe
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\NoonBot.pdb
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Discord.Net.Commands.dll
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Discord.Net.dll
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Nito.AsyncEx.dll
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\RestSharp.dll
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\WebSocket4Net.dll
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Nito.AsyncEx.xml
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\RestSharp.xml
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\obj\Debug\NoonBot.exe
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\obj\Debug\NoonBot.pdb
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Images\RYUU.jpg
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\delet.jpg
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\Fetish.jpg
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\Flandre 187.png
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\Flandre stuff.png
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\HIgh impact sexual cleaning.jpg
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\Hong.png
+c:\users\owen\documents\visual studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\idk.png
+C:\Users\Owen\Documents\Visual Studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Images\dlet this.jpg
+C:\Users\Owen\Documents\Visual Studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Images\delet jotaro.png
+C:\Users\Owen\Documents\Visual Studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Images\delet waifu.jpg
+C:\Users\Owen\Documents\Visual Studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Images\jotaro delet.jpg
+C:\Users\Owen\Documents\Visual Studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\Aww sheeeeeeet.jpg
+C:\Users\Owen\Documents\Visual Studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\diejoubu.jpg
+C:\Users\Owen\Documents\Visual Studio 2015\Projects\NoonBot\NoonBot\bin\Debug\Reaction\Incubator.jpg
